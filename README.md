@@ -1,2 +1,1 @@
-# CS-Computer-Vision
-Vehicle and Pedestrian Detection using Open CV Tools
+# Computer-Vision-Tutorial
